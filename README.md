@@ -1,2 +1,3 @@
 # Learning-Typescript
-Learning typescript from offical typescript lang documentation
+Learning typescript from official typescriptLang documentation
+Typescript code in the master branch
